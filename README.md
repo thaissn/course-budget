@@ -1,7 +1,7 @@
-# course-budgety
+# course-budget
 Complete JavaScript 2020 Course - Budget App
 
-Budget web application - Part of the "Complete JavaScript 2020" course. 
+Budget web application - part of the "Complete JavaScript 2020" course. 
 
 Refered to as "Budgety" in the course.
 
